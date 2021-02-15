@@ -20,4 +20,4 @@ class Solution {
 
             return count;
         }
-    } // Contributed by Amresh Ranjan.
+    } //Contributed by Amresh Ranjan.
